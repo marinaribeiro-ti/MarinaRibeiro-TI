@@ -1,4 +1,4 @@
-# Olá! Eu sou Marina Ribeiro 👩‍💻
+# Olá! Eu sou Marina 👩‍💻
 
 ### Estudante de Gestão da Tecnologia da Informação
 
@@ -15,13 +15,14 @@ Sou estudante de Gestão de TI e estou construindo minha trajetória na área de
 
 ## 💻 Tecnologias e ferramentas
 
-- Python
-- HTML
-- JavaScript
-- Git e GitHub
-- Visual Studio Code
-- Excel
-- Power BI
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,vscode,github" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power_BI-F1C912?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</p>
 
 ## 📚 Formação e conhecimentos
 
