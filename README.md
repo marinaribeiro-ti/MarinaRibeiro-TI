@@ -15,15 +15,30 @@ Sou estudante de Gestão de TI e estou construindo minha trajetória na área de
 
 ## 💻 Tecnologias e ferramentas
 
-                             *Linguagens e Web*
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,vscode,github" />
-</p>
+                        
+<h2 align="center">TECNOLOGIAS</h2>
+
+<hr>
+
+<h3 align="center">Linguagens e Web</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Power_BI-F1C912?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,javascript" />
 </p>
+
+<h3 align="center">Dados</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
+
+<h3 align="center">Ferramentas e Cloud</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode" />
+</p>
+
+<hr>
 
 ## 📚 Formação e conhecimentos
 
