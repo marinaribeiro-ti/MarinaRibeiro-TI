@@ -15,6 +15,7 @@ Sou estudante de Gestão de TI e estou construindo minha trajetória na área de
 
 ## 💻 Tecnologias e ferramentas
 
+ Linguagens e Web
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,vscode,github" />
 </p>
