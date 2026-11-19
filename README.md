@@ -1,16 +1,40 @@
-## Hi there 👋
+# Olá! Eu sou Marina Ribeiro 👩‍💻
 
-<!--
-**marinaribeiro-ti/MarinaRibeiro-TI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estudante de Gestão da Tecnologia da Informação
 
-Here are some ideas to get you started:
+Sou estudante de Gestão de TI e estou construindo minha trajetória na área de tecnologia. Tenho interesse em programação, desenvolvimento de sistemas, análise de dados e soluções tecnológicas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 Objetivos
+
+- Desenvolver minhas habilidades em tecnologia.
+- Aprimorar meus conhecimentos em programação.
+- Criar projetos práticos.
+- Aprender e explorar novas ferramentas de TI.
+
+## 💻 Tecnologias e ferramentas
+
+- Python
+- HTML
+- JavaScript
+- Git e GitHub
+- Visual Studio Code
+- Excel
+- Power BI
+
+## 📚 Formação e conhecimentos
+
+- Gestão da Tecnologia da Informação
+- Lógica de Programação
+- Marketing Digital
+- Power BI 
+- Git e GitHub
+
+## 🚀 Projetos
+
+Em desenvolvimento: meus primeiros projetos e atividades acadêmicas na área de tecnologia.
+
+---
+
+*Transformando conhecimento em soluções.*
