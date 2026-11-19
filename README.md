@@ -31,8 +31,7 @@ Sou estudante de Gestão de TI e estou construindo minha trajetória na área de
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F1C912?style=for-the-badge&logo=powerbi&logoColor=black" />
   <h3 align="center">Dados</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<p align="center"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
  
