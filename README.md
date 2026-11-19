@@ -15,8 +15,7 @@ Sou estudante de Gestão de TI e estou construindo minha trajetória na área de
 
 ## 💻 Tecnologias e ferramentas
 
-                        
-<h2 align="center">TECNOLOGIAS</h2>
+   <h2 align="center">TECNOLOGIAS</h2>
 
 <hr>
 
@@ -38,7 +37,8 @@ Sou estudante de Gestão de TI e estou construindo minha trajetória na área de
   <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode" />
 </p>
 
-<hr>
+<hr>                     
+
 
 ## 📚 Formação e conhecimentos
 
