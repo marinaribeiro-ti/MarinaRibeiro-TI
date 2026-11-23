@@ -1,59 +1,76 @@
-# Olá! Eu sou Marina 👩‍💻
+<div align="center">
+  <img src="./banner-marina-azul.svg"
+       width="100%"
+       alt="Marina Ribeiro | Gestão de TI">
+</div>
+---
 
-### Estudante de Gestão da Tecnologia da Informação
+<div align="center">
 
-Sou estudante de Gestão de TI e estou construindo minha trajetória na área de tecnologia. Tenho interesse em programação, desenvolvimento de sistemas, análise de dados e soluções tecnológicas.
+## MEU STACK
+
+<br>
+
+<table>
+<tr>
+
+<td align="center" width="180">
+<h3>Backend</h3>
+
+<code>Python</code><br><br>
+<code>SQL</code><br><br>
+<code>APIs REST</code><br><br>
+
+
+</td>
+
+<td align="center" width="180">
+<h3>Front-end</h3>
+
+<code>HTML5</code><br><br>
+<code>CSS3</code><br><br>
+<code>JavaScript</code>
+
+</td>
+
+<td align="center" width="180">
+<h3>Dados</h3>
+
+<code>SQL</code><br><br>
+<code>Power BI</code><br><br>
+<code>Análise de Dados</code>
+
+</td>
+
+<td align="center" width="180">
+<h3>Ferramentas</h3>
+
+<code>Git</code><br><br>
+<code>GitHub</code><br><br>
+<code>Scrum</code><br><br>
+
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 🎯 Objetivos
+## Vamos conversar?
 
-- Desenvolver minhas habilidades em tecnologia.
-- Aprimorar meus conhecimentos em programação.
-- Criar projetos práticos.
-- Aprender e explorar novas ferramentas de TI.
+<br>
 
-## 💻 Tecnologias e ferramentas
+<a href="mailto:marynar585@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-32CD62?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/marinaribeiro-ti">
+  <img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/marina-r-r">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<h2 align="center">TECNOLOGIAS</h2>
-
-<hr>
-
-<h3 align="center">Linguagens e Web</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,vscode" />
-</p>
-
-<h3 align="center">Dados</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F1C912?style=for-the-badge&logo=powerbi&logoColor=black" />
-</p>
-
- 
-<h3 align="center">Ferramentas e Cloud</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,aws,vscode" />
-</p>
-
-<hr>
-
-## 📚 Formação e conhecimentos
-
-- Gestão da Tecnologia da Informação
-- Lógica de Programação
-- Marketing Digital
-- Power BI 
-- Git e GitHub
-
-## 🚀 Projetos
-
-Em desenvolvimento: meus primeiros projetos e atividades acadêmicas na área de tecnologia.
-
----
-
-*Transformando conhecimento em soluções.*
+</div>
